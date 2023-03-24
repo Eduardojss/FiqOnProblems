@@ -1,0 +1,15 @@
+C:\Users\Eduardo\source\repos\Acronim3369\bin\Debug\net6.0\Acronim3369.exe
+C:\Users\Eduardo\source\repos\Acronim3369\bin\Debug\net6.0\Acronim3369.deps.json
+C:\Users\Eduardo\source\repos\Acronim3369\bin\Debug\net6.0\Acronim3369.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Acronim3369\bin\Debug\net6.0\Acronim3369.dll
+C:\Users\Eduardo\source\repos\Acronim3369\bin\Debug\net6.0\Acronim3369.pdb
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\Acronim3369.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\Acronim3369.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\Acronim3369.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\Acronim3369.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\Acronim3369.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\Acronim3369.dll
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\refint\Acronim3369.dll
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\Acronim3369.pdb
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\Acronim3369.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\Acronim3369\obj\Debug\net6.0\ref\Acronim3369.dll

@@ -1,0 +1,15 @@
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\bin\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.exe
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\bin\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.deps.json
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\bin\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.runtimeconfig.json
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\bin\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.dll
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\bin\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.pdb
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.dll
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\refint\MaiorNúmerodeUmAlgarismo1867.dll
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.pdb
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\MaiorNúmerodeUmAlgarismo1867.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\MaiorNúmerodeUmAlgarismo1867\obj\Debug\net6.0\ref\MaiorNúmerodeUmAlgarismo1867.dll

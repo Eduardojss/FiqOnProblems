@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Acronim3369/1.0.0": {
+        "runtime": {
+          "Acronim3369.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Acronim3369/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

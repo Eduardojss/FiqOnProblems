@@ -1,0 +1,15 @@
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\EXBrute3344.exe
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\EXBrute3344.deps.json
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\EXBrute3344.runtimeconfig.json
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\EXBrute3344.dll
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\EXBrute3344.pdb
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\EXBrute3344.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\EXBrute3344.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\EXBrute3344.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\EXBrute3344.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\EXBrute3344.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\EXBrute3344.dll
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\refint\EXBrute3344.dll
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\EXBrute3344.pdb
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\EXBrute3344.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\ref\EXBrute3344.dll
