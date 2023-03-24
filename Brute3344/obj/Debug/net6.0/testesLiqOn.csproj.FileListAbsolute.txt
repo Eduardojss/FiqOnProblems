@@ -1,0 +1,15 @@
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\testesLiqOn.exe
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\testesLiqOn.deps.json
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\testesLiqOn.runtimeconfig.json
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\testesLiqOn.dll
+C:\Users\Eduardo\source\repos\testesLiqOn\bin\Debug\net6.0\testesLiqOn.pdb
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\testesLiqOn.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\testesLiqOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\testesLiqOn.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\testesLiqOn.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\testesLiqOn.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\testesLiqOn.dll
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\refint\testesLiqOn.dll
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\testesLiqOn.pdb
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\testesLiqOn.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\testesLiqOn\obj\Debug\net6.0\ref\testesLiqOn.dll
